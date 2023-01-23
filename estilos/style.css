@@ -47,7 +47,7 @@ main {
 
 #login > #imagem {
     display: block;
-    background: #0D0D0D url(../imagens/pexels-adrien-olichon-2931246.jpg) no-repeat  center ;
+    background: #0D0D0D url(../imagens/pexels-adrien-olichon-2931246.jpg) no-repeat  center;
     background-size: cover;
     height: 200px;
 }
